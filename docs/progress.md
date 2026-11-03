@@ -14,7 +14,7 @@
 ## Pengerjaan oleh pengguna
 ## Soal 1 — Distribusi dan Algoritma Naive-Bayes
 
-- Tanggal pengerjaan: 03 November 2026
+- Tanggal pengerjaan: 03 November 2026.
 - [X] Membuat repository pribadi.
 - [X] Mempelajari setiap fungsi.
 - [X] Menjalankan notebook dari awal di Colab.
@@ -27,7 +27,7 @@
 
 ## Soal 2 — A/B Testing Sistem Rekomendasi
 
-- Tanggal pengerjaan: 03 November 2026
+- Tanggal pengerjaan: 03 November 2026.
 - Implementasi: pembuatan data sintetis, estimasi metrik sampel,
   derajat kebebasan Satterthwaite, statistik t, dan keputusan uji dua sisi.
 - Standar deviasi menggunakan ddof=1.
@@ -41,4 +41,33 @@
 - Link Colab: https://colab.research.google.com/drive/13LQ30E5clJa4u1z9ve2W7_PpJXIFfyUZ?usp=sharing
 - Langkah berikutnya: Soal 3 dan Knowledge Check.
 
-## Soal 3 —
+## Soal 3 — Software Development A/B Testing
+
+### Perubahan
+- Tanggal pengerjaan: 03 November 2026.
+- Melengkapi tujuh area isian pada template Soal 3.
+- Menghitung kebutuhan sampel dan durasi pengujian.
+- Membuat dataset simulasi untuk kelompok origin dan varian.
+- Menghitung metrik proporsi, proporsi gabungan, z-statistik, dan keputusan uji hipotesis dua sisi.
+- Link Colab: https://colab.research.google.com/drive/1e8iAc9oXTGCHKQon5bnftORZxfMvFBik?usp=sharing
+- Langkah berikutnya: Knowledge Check.
+
+### Hasil pemeriksaan
+- Notebook dijalankan ulang dari awal tanpa error.
+- Kebutuhan sampel minimum: 3.627 pengguna per kelompok.
+- Durasi pengujian: 8 hari.
+- Origin: 3.959 pengguna dengan 2.734 keberhasilan.
+- Varian: 4.041 pengguna dengan 2.906 keberhasilan.
+- Proporsi gabungan: 0,7050.
+- Z-statistik: -2,7996.
+- Hipotesis nol ditolak pada alpha 0,05.
+
+### Pemahaman
+- Proporsi keberhasilan kelompok varian lebih tinggi sekitar 2,86 poin persentase daripada origin pada data simulasi.
+- Pengujian dua sisi memberikan bukti adanya perbedaan proporsi yang signifikan secara statistik.
+
+### Kendala
+
+
+### Langkah berikutnya
+Mengerjakan Knowledge Check dan memeriksa kelengkapan seluruh berkas submission.
