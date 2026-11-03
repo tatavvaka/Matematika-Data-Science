@@ -22,6 +22,7 @@
 - [X] Mengunduh `.ipynb` dan `.py` terbaru.
 - [X] Melakukan commit berdasarkan hasil yang benar-benar diperiksa.
 - Kendala dan pemahaman baru:
+- Link Colab: https://colab.research.google.com/drive/1wtQG0WN1F58OWHS1U1gCP0XCqs9TOAVr?usp=sharing
 - Langkah berikutnya: Soal 2, 3, dan Knowledge Check.
 
 ## Soal 2 — A/B Testing Sistem Rekomendasi
@@ -37,6 +38,7 @@
 - Keputusan pada alpha 0,05: menolak hipotesis nol.
 - Pemeriksaan restart dan run all:
 - Kendala dan pemahaman baru:
+- Link Colab: https://colab.research.google.com/drive/13LQ30E5clJa4u1z9ve2W7_PpJXIFfyUZ?usp=sharing
 - Langkah berikutnya: Soal 3 dan Knowledge Check.
 
 ## Soal 3 —
