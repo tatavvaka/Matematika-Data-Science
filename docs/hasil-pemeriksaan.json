@@ -1,0 +1,96 @@
+{
+  "checks": {
+    "uniform_shape_and_range": true,
+    "uniform_seed_reproducible": true,
+    "gaussian_quantile_reference": true,
+    "gaussian_endpoint_inf": true,
+    "binomial_ppf_endpoint_minus_one": true,
+    "binomial_support": true,
+    "uniform_pdf_boundary": true,
+    "gaussian_pdf_reference_array": true,
+    "binomial_mass_sums_to_one": true,
+    "binomial_outside_support_zero": true,
+    "synthetic_rows_and_columns": true,
+    "synthetic_class_counts": true,
+    "standalone_gaussian_ddof0": true,
+    "training_gaussian_ddof1": true,
+    "training_binomial_template_convention": true,
+    "priors_sum_one": true,
+    "likelihood_example_reference": true,
+    "feature_order_respected": true,
+    "prediction_matches_argmax": true,
+    "split_sizes_total": true
+  },
+  "accuracy": 0.9990338164251208,
+  "rows_train": 2415,
+  "rows_test": 1035,
+  "class_priors": {
+    "1": 0.39544513457556935,
+    "0": 0.34575569358178054,
+    "2": 0.2587991718426501
+  },
+  "actual_third_binomial": [
+    22.0,
+    18.0,
+    17.0
+  ],
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "scikit-learn": "1.8.0"
+  },
+  "code_cells": 37,
+  "executed_cells": 37,
+  "errors": 0,
+  "plot_outputs": 3,
+  "text_examples": [
+    {
+      "cell": 8,
+      "pass": true
+    },
+    {
+      "cell": 17,
+      "pass": true
+    },
+    {
+      "cell": 21,
+      "pass": true
+    },
+    {
+      "cell": 30,
+      "pass": true
+    },
+    {
+      "cell": 34,
+      "pass": true
+    },
+    {
+      "cell": 57,
+      "pass": true
+    },
+    {
+      "cell": 61,
+      "pass": true
+    },
+    {
+      "cell": 65,
+      "pass": true
+    },
+    {
+      "cell": 70,
+      "pass": true
+    },
+    {
+      "cell": 74,
+      "pass": true
+    },
+    {
+      "cell": 78,
+      "pass": true
+    }
+  ]
+}

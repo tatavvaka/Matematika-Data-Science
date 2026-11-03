@@ -29,7 +29,19 @@ Lihat `docs/progress.md` untuk perkembangan sebenarnya.
 
 Pendampingan dan contoh implementasi disiapkan dengan bantuan AI. Ketentuan kelas membatasi AI sebagai teman belajar dan melarang AI melengkapi kode submission. Memeriksa atau memparafrasekan hasil AI tidak menghapus ketentuan tersebut. Paket ini tidak membuktikan kepatuhan terhadap ketentuan itu dan bukan jaminan nilai.
 
-## Status
+## Status pemeriksaan contoh Soal 1
 
-Template awal Soal 1; belum diisi dan belum memiliki output tersimpan.
-Soal 2, Soal 3, dan Knowledge Check belum diselesaikan dalam repository ini.
+- 37/37 sel kode selesai dijalankan di lingkungan pendamping.
+- Tidak ditemukan error eksekusi.
+- Tiga visualisasi tersimpan dalam notebook.
+- 11 kelompok angka keluaran contoh sesuai dengan template (toleransi numerik relatif 1e-10).
+- Akurasi data sintetis: 99.9034%.
+- Pengujian lokal menggunakan IPython dalam satu proses; belum merupakan pengujian otomatis Dicoding.
+- Pengguna tetap perlu memahami implementasi dan menjalankannya di Colab.
+
+Lihat `docs/panduan-fungsi-soal-1.md` untuk setiap fungsi dan catatan ketidakkonsistenan template.
+Lihat `docs/laporan-pemeriksaan-soal-1.md` untuk batas pemeriksaan.
+
+## Pekerjaan berikutnya
+
+Soal 2, Soal 3, dan seluruh Knowledge Check masih perlu dikerjakan. Penyelesaian Soal 1 saja belum memenuhi Advanced seluruh submission.
