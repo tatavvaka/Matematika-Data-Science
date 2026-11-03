@@ -71,3 +71,31 @@
 
 ### Langkah berikutnya
 Mengerjakan Knowledge Check dan memeriksa kelengkapan seluruh berkas submission.
+
+## Knowledge Check dan pemeriksaan akhir
+
+### Pengerjaan
+- Tanggal pengerjaan: 03 November 2026.
+- Mengisi identitas pada ketiga sheet soal.
+- Membahas 15 soal Knowledge Check berdasarkan PDF penugasan.
+- Mengisi jawaban pada C11:C15 di setiap sheet soal.
+- Memeriksa nama berkas dan struktur submission.
+- Link Spreadsheets: https://docs.google.com/spreadsheets/d/1l9h2G6uSYYqsVlxa1jP0KHrGe5ZT9FMuKAvMONdFtA8/edit?usp=sharing
+
+### Pemeriksaan eksekusi
+- Soal 1:
+- Soal 2:
+- Soal 3:
+
+### Pemeriksaan berkas
+- Output notebook: Sudah diperiksa.
+- Ekspor Python terbaru: Sudah diperiksa.
+- Nama dan jawaban workbook: Sudah diperiksa.
+- Isi ZIP tujuh berkas: Sudah diperiksa.
+
+### Catatan konsep
+- Beberapa opsi soal memiliki redaksi yang kurang tepat.
+- Pembahasan membedakan inverse CDF dari generator acak, PDF dari peluang pada satu titik, serta peran derajat kebebasan dalam pengujian t.
+
+### Status
+Siap dikirim setelah seluruh pemeriksaan selesai.
